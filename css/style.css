@@ -1,0 +1,29 @@
+
+
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+h1{
+
+    padding-top: 30px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h2 {
+    padding-top:20px;
+    font-size: 14px;
+    font-weight: normal;
+    border-top:1px solid #eeeeee;
+}
+a {
+    border:0;
+    color: #2645FF;
+    text-decoration: none;
+}
